@@ -1,0 +1,10 @@
+{
+  "name": "launch-reveal-series",
+  "description": "Use when planning a \"Day N of showing you what we built\" social video series to launch an app or product \u2014 counting features, structuring days, hooks, cliffhangers, per-platform posting and scheduling.",
+  "version": "1.0.0",
+  "author": {
+    "name": "The Ask Why Company",
+    "url": "https://github.com/theaskwhy"
+  },
+  "license": "MIT"
+}
